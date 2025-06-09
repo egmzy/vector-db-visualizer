@@ -2,9 +2,10 @@
 
 Interactive visualization comparing SQL databases and vector databases to demonstrate semantic search capabilities.
 
-## Demo
+### [Live Demo](https://vector-db-visualizer.netlify.app/)
 
-Live Demo
+![image](https://github.com/user-attachments/assets/eba4a9c7-5c93-44a9-b27a-dbda029a694e)
+
 
 ## Features
 
